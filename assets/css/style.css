@@ -32,9 +32,8 @@ body {
     font-size: 20px;
 }
 
-.header div ul li {
-    display: inline-block;
-    margin-left: 25px;
+.space {
+    margin-right:  25px;
 }
 
 a {
